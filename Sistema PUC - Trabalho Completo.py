@@ -1,6 +1,7 @@
 ''' Sistema PUC criado na matéria de Raciocínio Computacional 
-    que atende o cadastro de alunos, disciplinas, professores,
-    turmas e matriculas. Criado por Thiago Souza no ano de 2023
+    do curso de ADS da PUCPR. Ele atende o cadastro de alunos,
+    disciplinas, professores, turmas e matriculas. 
+    Criado por Thiago Souza no ano de 2023.
 '''
 #coding: utf-8
 import time
